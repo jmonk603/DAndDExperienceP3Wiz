@@ -1,4 +1,18 @@
-Pier
-Town
 Forest
-Mountain Peak
+roll 
+blank 
+Success
+Forest
+Make your choice
+Forest
+redirecting
+Forest
+redirecting
+blank
+Failure
+Forest
+Make your choice
+Forest
+redirecting
+Forest
+redirecting
