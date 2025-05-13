@@ -1,29 +1,18 @@
-get off the boat
-Help wanted board - D
-you accept the quest
-you don't accept the quest
-go into town/tavern
-talk to wizard
-doomsday supporters start a fight - D
-roll
-you get chased out of town
-you leave peacefully
-leave town being feared
-you get chased out of town mk2
-leave town after showing strength
-leave town after showing magic
-go into forest
-feel like you're being watched
-roll
-avoid trap
-fall into trap
-avoid because ranger
-pixies talk to you and ask for help - D
-you agree to help the pixies and are let free
-you agree to help the pixies and are guided out the forest
-you don't agree to help the pixies and break out of the trap
-you don't agree to help the pixies and run out the forest
-you make it to mountain peak
-roll
-you beat the dragon
-you don't beat the dragon
+After leaving town you enter a thick forest. ...However, when walking through you... have an uneasy feeling as if you are... being watched.. ...
+Roll the D20 to see if you can figure... out what is watching you!
+blank... 
+As soon as you figure out what direction... the feeling is coming from you manage... to see a large net flying towards you... and you dodge out the way as a group... of forest pixies come out from the trees!
+The pixies explain to you that Doomsday... has destroyed their original forest home... with his wildfires, and they have had... to move to this forest instead!...
+They ask for help setting up their... new home, then in return they'll help... you through the forest to the mountain... on your quest!
+You agree to help the pixies and... you help build some new homes in the... forest for them!... After some celebrations they help... you through the forest to the mountain!
+redirecting...
+You refuse to help the pixies and they... chase you out of the forest!
+redirecting...
+blank...
+In an attempt to figure out what is... watching you, you fall right into a trap!... you're now hanging from a large net as a... group of pixies come out of the forest!
+The pixies explain to you that Doomsday... has destroyed their original forest home... with his wildfires, and they have had... to move to this forest instead!...
+They ask for help setting up their... new home, then in return they'll help... you through the forest to the mountain... on your quest!
+You agree to help the pixies and... after cutting you out of the net you... help build some new homes in the forest!... After some celebreations they help... you through the forest to the mountain
+redirecting...
+You refuse to help the pixies and cut... yourself out of the net before they... chase you out of the forest!
+redirecting...
