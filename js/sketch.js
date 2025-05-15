@@ -137,19 +137,19 @@ function touchEnded(){
 
 function openLink(){
   if (storyCounter == 7){
-    window.open("https://jmonk603.github.io/DandDARWinPixWiz/");
+    window.open("https://jmonk603.github.io/DAndDARWinPixWiz/");
     window.location.href = ('https://jmonk603.github.io/DAndDExperienceP4Wiz/');
   }
   if (storyCounter == 9){
-    window.open("https://jmonk603.github.io/DandDARLosePixWiz/");
+    window.open("https://jmonk603.github.io/DAndDARLosePixWiz/");
     window.location.href = ('https://jmonk603.github.io/DAndDExperienceP4Wiz/');
   }
   if (storyCounter == 17){
-    window.open("https://jmonk603.github.io/DandDARLosePixWiz/");
+    window.open("https://jmonk603.github.io/DAndDARLosePixWiz/");
     window.location.href = ('https://jmonk603.github.io/DAndDExperienceP4Wiz/');
   }
   if (storyCounter == 15){
-    window.open("https://jmonk603.github.io/DandDARWinPixWiz/");
+    window.open("https://jmonk603.github.io/DAndDARWinPixWiz/");
     window.location.href = ('https://jmonk603.github.io/DAndDExperienceP4Wiz/');
   }
 }
